@@ -5,4 +5,4 @@ This repository is reserved to store my code during my time at *Santa Monica Com
 
 #### General Format of Assignment '#'
 * ReadME.md : problem question with sample code (optional)
-* main.cpp and supplemental .cpp/.h files that solve the problem.
+* assignment.py : solution to the problem
